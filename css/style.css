@@ -1,4 +1,22 @@
 /* CSS Document */
+#custom-button {
+  padding: 10px;
+  color: white;
+  background-color: #009578;
+  border: 1px solid #000;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#custom-button:hover {
+  background-color: #00b28f;
+}
+
+#custom-text {
+  margin-left: 10px;
+  font-family: sans-serif;
+  color: #aaa;
+}
 
 .bg-black{background-color: rgba(14,14,14,1.00)}
 .carousel-caption{top:200px;}
